@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abhijith Chandra
+# Hi there, I'm Abhijith Chandra <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35" />
 
 🎓 **Education**
 - B-Tech in Electronics and Communication  
@@ -8,7 +8,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
@@ -22,6 +22,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="40"/>
   </a>
 </p>
+
 ---
 
 ## 🛠️ Languages and Tools
