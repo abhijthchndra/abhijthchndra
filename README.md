@@ -1,60 +1,59 @@
-<h1 align="center">Hi 👋, I'm Abhijith Chandra</h1>
-<h3 align="center">A passionate embedded engineer from India</h3>
+# Hi there 👋, I'm Abhijith Chandra
 
-- 📝 I regularly write articles on [abhijthchndra.blogspot.com](abhijthchndra.blogspot.com)
+🎓 **Education**
+- B-Tech in Electronics and Communication  
+- Professional Diploma in Embedded Firmware  
 
-- 📫 How to reach me **abijithkodiyeri@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40"/>
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  </a>
+</p>
+---
+
+## 🛠️ Languages and Tools
 
 <p align="left">
-<table border="">
-  <tr>
-    <td valign="middle">
-      <a href="https://twitter.com/abhijthchndra" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/abhijith-chandra-8ab094228" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Embedded C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/PIC-Microcontroller-blue" alt="PIC"/>
+  <img src="https://img.shields.io/badge/ATMEGA32-Controller-green" alt="ATMEGA32"/>
+  <img src="https://img.shields.io/badge/ARM-Cortex-orange" alt="ARM Cortex"/>
+  <img src="https://img.shields.io/badge/RTOS-FreeRTOS-blueviolet" alt="RTOS"/>
+  <img src="https://img.shields.io/badge/STM32-FreeRTOS-blue" alt="STM32"/>
+  <img src="https://img.shields.io/badge/IoT-WiFi%20GSM%20GPS%20BLE-yellow" alt="IoT"/>
+  <img src="https://img.shields.io/badge/PCB-Eagle-red" alt="Eagle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/MATLAB-orange" alt="Matlab"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<table border="">
-  <tr>
-    <td valign="middle">
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-      </a> 
-    </td>
-    <td>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-      </a> 
-      </td>
-    <td>
-      <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> 
-      </a> 
-      </td>
-    <td>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-      </a> 
-      </td>
-    <td>
-      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-      </a>
-      </td>
-    <td>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-      </a>
-      </td>
-  </tr>
-</table>
+---
+
+## ✍️ Blog
+
+📝 I regularly write articles on:  
+👉 **https://abhijthchndra.blogspot.com**
+
+---
+
+## 📫 Contact Me
+
+📧 Email: **abijithkodiyeri@gmail.com**
+
+---
+
+⭐ *Feel free to explore my repositories and connect!*
