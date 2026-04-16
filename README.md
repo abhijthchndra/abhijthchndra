@@ -9,16 +9,16 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://linkedin.com" target="https://www.linkedin.com/in/abhijith-chandra/">
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="https://twitter.com" target="_blank">
+  <a href="https://twitter.com" target="https://x.com/abhijthchndra">
     <img src="https://raw.githubusercontent.com/gist/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" width="40"/>
   </a>
   <a href="https://discord.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="40"/>
   </a>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://instagram.com" target="https://www.instagram.com/abhijth_chndra">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="40"/>
   </a>
 </p>
