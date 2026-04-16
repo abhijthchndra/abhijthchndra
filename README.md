@@ -7,7 +7,7 @@ Embedded Systems Engineer | Firmware Developer
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com" target="https://www.linkedin.com/in/abhijith-chandra/">
+  <a href="https://www.linkedin.com/in/abhijith-chandra/" target="https://www.linkedin.com/in/abhijith-chandra/">
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="https://twitter.com" target="https://x.com/abhijthchndra">
